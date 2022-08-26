@@ -1,0 +1,29 @@
+{
+    "status": "successfully",
+    "student": [
+        {
+            "id": 11,
+            "name": "suraj",
+            "email": "jaiswaljesus384@gmail.com",
+            "branch": "computer science"
+        },
+        {
+            "id": 12,
+            "name": "akash",
+            "email": "akashjesus454@gmail.com",
+            "branch": "mechanical"
+        },
+        {
+            "id": 15,
+            "name": "shantanu",
+            "email": "Gondanejay123@gmail.com",
+            "branch": "BCA"
+        },
+        {
+            "id": 19,
+            "name": "kartik",
+            "email": "jainbhai558@gmail.com",
+            "branch": "MBA"
+        }
+    ]
+}
